@@ -3,9 +3,9 @@
 
 # HIIFace-API
 
-HII-Face API Version 2.0.0
+Version 2.0.0
 
-###### Host-IP = Public IP / Domain Name
+###### Host-IP = Public IP / Domain Name , Example face.hii.xyz 
 
 #### 1. Recognition
 
